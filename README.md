@@ -1,6 +1,10 @@
 # chatgpt
 
 A new Flutter project.
+## App Sample
+![image](https://github.com/malpaniraghav65/chatgpt_flutter/assets/111878976/54223b1e-1b1c-4a2c-944e-8cbd6418d85a)
+
+
 
 ## Getting Started
 
